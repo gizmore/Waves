@@ -40,3 +40,6 @@ tests/
 
 # Apple stuff
 .DS_Store
+
+# Dist
+dist/
